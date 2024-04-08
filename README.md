@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabryell Leal Rocha
-- 🥇 I'm fluent in English... I lived in USA for about 4 years.
-- 👀 I’m interested in Back-End Development (main focus) and Data Analysis.
-- 🌱 I’m currently learning front-end WEB development. Although I already know Python, Java HTML, CSS and tools like Excel and PowerBi.
+- 🥇 I'm fluent in English, tested B2 by the Versant exam and C1.2 by the Insigna test, both im the GSE.
+- 👀 I’m interested in Back and Front End Development, and Data Analysis.
+- 🌱 I’m currently learning front-end WEB development. Although I already know Python, Java, HTML, CSS and tools like Excel and PowerBi.
 - 💞️ I’m looking to collaborate on Projects and any jobs correlated to my field...
 - 📫 I'm reachable through my email address (g.lealrocha3@gmail.com)
 
