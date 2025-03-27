@@ -13,7 +13,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="40" height="40"/>        
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lealgabryell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+![lealgabryell's Stats](https://github-readme-stats.vercel.app/api?username=lealgabryell&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)![lealgabryell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lealgabryell&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 
