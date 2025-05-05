@@ -16,6 +16,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="40" height="40"/>        
 
-![lealgabryell's Stats](https://github-readme-stats.vercel.app/api?username=lealgabryell&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)![lealgabryell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lealgabryell&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/lealgabryell?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
+</div>
 
