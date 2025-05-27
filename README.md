@@ -1,7 +1,8 @@
 ## 👋 Hey there! My name is Gabryell Leal Rocha...
 - 🥇 I'm fluent in English, tested C1 by the Versant exam and C1.2 by the Insigna test, both in the GSE.
-- 👀 I’m interested in Back End development.
-- 🌱 Currently, I'm deeping me knowledge in Java for API Restful development and NodeJs back-end development in monolithic architecture.
+- 👀 I’m interested in Back End development and Quality Assurance.
+- 🌱 Currently, I'm deeping me knowledge in Java for API Restful development and NodeJs back-end development in monolithic architecture, also, I've been working on my testing skills with Selenium.
+- 💼 From May 2025, I started my career as an QA Intern at DBC Company.
 - 😃 Documentation using Swagger at both Node and Java environments are one of my specialties together with UML data modeling as prepararion for the API development.
 - 💪 What makes me stand out are my soft skills: communication, determination and open-mind for new challanges. I'm always up to learn, I believe experience brings maturity.
  
